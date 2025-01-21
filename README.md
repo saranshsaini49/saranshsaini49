@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Rajasthan
 * ✉️  You can contact me at [saranshsss99@gmail.com](mailto:saranshsss99@gmail.com)
-* 🧠  I'm learning React.js, Typescript
-* 🤝  I'm open to collaborating on Frontend Projects
+* 🧠  I'm learning Full Stack Development.
+* 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/saranshsaini49" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saranshsaini49?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
