@@ -1,15 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saransh Saini
 =====================================================================================================================================
 
-* 🌍  I'm based in Rajasthan
-* ✉️  You can contact me at [saranshsss99@gmail.com](mailto:saranshsss99@gmail.com)
-* 🧠  I'm learning Full Stack Development.
-* 🤝  I'm open to collaborating on Projects
+* 🌍  I'm based in Rajasthan  
+* ✉️  You can contact me at [saranshsss99@gmail.com](mailto:saranshsss99@gmail.com)  
+* 🧠  I'm learning Full Stack Development  
+* 🤝  I'm open to collaborating on Projects  
 
 <a href="https://www.github.com/saranshsaini49" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saranshsaini49?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+---
+
+### 🛠️ Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -22,18 +24,32 @@ src="https://img.shields.io/github/followers/saranshsaini49?logo=github&style=fo
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+
+<!-- Added new icons -->
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rails-colored.svg" width="36" height="36" alt="Ruby on Rails" /></a>
+<a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS S3" /></a>
+<a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="36" height="36" alt="AWS Lambda" /></a>
 </p>
 
+---
 
-### Socials
+### 🌐 Socials
 
-<p align="left"> <a href="https://discord.com/users/StarDust#5081" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/saranshsaini49" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saransh-saini-216bb31bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://discord.com/users/StarDust#5081" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/saranshsaini49" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/saransh-saini-216bb31bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🏆 Badges & Stats
 
-<a href="http://www.github.com/saranshsaini49"><img src="https://github-readme-stats.vercel.app/api?username=saranshsaini49&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saranshsaini49's GitHub stats" /></a>
+<b>My GitHub Stats</b>  
+
+<a href="http://www.github.com/saranshsaini49"><img src="https://github-readme-stats.vercel.app/api?username=saranshsaini49&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="saranshsaini49's GitHub stats" /></a>
 
 <a href="http://www.github.com/saranshsaini49"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saranshsaini49&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -41,6 +57,18 @@ src="https://img.shields.io/github/followers/saranshsaini49?logo=github&style=fo
 
 <a href="https://github.com/saranshsaini49" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshsaini49&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/saranshsaini49/image-gallery" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshsaini49&repo=image-gallery&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/saranshsaini49/contact-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshsaini49&repo=contact-manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 📦 Top Repositories
+
+<div width="100%" align="center">
+<a href="https://github.com/saranshsaini49/image-gallery" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshsaini49&repo=image-gallery&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
+<a href="https://github.com/saranshsaini49/contact-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshsaini49&repo=contact-manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
+</div>  
+<br /><br /><br /><br /><br /><br /><br />
+
+---
+
+### 🐍 Watch my contributions get eaten by a snake 🐍
+
+![snake gif](https://github.com/saranshsaini49/saranshsaini49/blob/output/github-contribution-grid-snake.svg)
