@@ -68,4 +68,5 @@ src="https://img.shields.io/github/followers/saranshsaini49?logo=github&style=fo
 
 ### 🐍 Watch my contributions get eaten by a snake 🐍
 
-![snake gif](https://github.com/saranshsaini49/saranshsaini49/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/saranshsaini49/saranshsaini49/output/github-contribution-grid-snake.svg)
+
